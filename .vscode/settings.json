@@ -1,0 +1,22 @@
+{
+    "cSpell.ignoreWords": [
+        "Apatow",
+        "Birthyear",
+        "Deathyear",
+        "Demme",
+        "Flix",
+        "silenceofthelambs"
+    ],
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "localhost",
+            "username": "postgres",
+            "password": "ma",
+            "database": "myFlixDB"
+        }
+    ]
+}
